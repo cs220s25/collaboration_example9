@@ -7,3 +7,5 @@ This repo is used to teach collaboration in a git repo.
 
 * Jack Wagenheim
 * Finn Dempsey
+
+Awesome example stuff
