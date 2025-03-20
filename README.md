@@ -5,7 +5,7 @@ This repo is used to teach collaboration in a git repo.
 
 ## Contributors
 
-* Jack Wagenheim wagenheimj@moravian.edu
-* Finn Dempsey dempseyf@moravian.edu
+1. Jack Wagenheim wagenheimj@moravian.edu
+2. Finn Dempsey dempseyf@moravian.edu
 
 Awesome example stuff
